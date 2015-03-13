@@ -18,8 +18,10 @@ create a repo or slack and invite others to join you. [Need help?][new-issue]
 
 ### Functional Reactive Programming
 
-Slack channel: #elm
-Repo: [/the-road-to-frp](https://github.com/Denver-Devs/the-road-to-frp)
+Taking what we know and pushing it towards what we don't.
+
+ - Slack channel: #elm
+ - Repo: [/the-road-to-frp](https://github.com/Denver-Devs/the-road-to-frp)
 
 [issues]: https://github.com/Denver-Devs/hub/issues
 [new-issue]: https://github.com/Denver-Devs/hub/issues/new
