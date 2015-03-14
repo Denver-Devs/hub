@@ -3,7 +3,7 @@
 **NOTE**: You can update this repo! The (Denver) dev community is about
 *collaboration* [just ask us to add you as a contributor][new-issue] :smile:
 
-# (Join The Slack Channel)[https://denver-dev-slack.herokuapp.com/)
+# [Join The Slack Channel](https://denver-dev-slack.herokuapp.com/)
 
 # Events
 
